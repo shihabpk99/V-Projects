@@ -28,4 +28,37 @@ h1{
     text-align:center;
 }
 
+#box2{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(220, 187, 164);
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 50px;
+    text-align:center;
+}
+
+#box3{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(220, 187, 164);
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 50px;
+    text-align:center;
+}
+
+#box4{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(220, 187, 164);
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 50px;
+    text-align:center;
+}
+
 
